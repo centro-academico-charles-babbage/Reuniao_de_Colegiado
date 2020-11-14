@@ -1,2 +1,3 @@
-# Reuni-o_de_Colegiado
-Discussão sobre construir e aprovar varias ementas de disciplinas. 
+# Reuniões De Colegiado
+
+Todas as reuniões serão tratadas nesse repositorio 
